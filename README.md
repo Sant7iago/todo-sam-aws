@@ -1,4 +1,4 @@
-# API REST Serverless con AWS SAM - TODO App
+# API REST Serverless con AWS SAM - TODO App PARTE 1 Y 2 
 
 Este repositorio contiene la implementación de una API RESTful para la gestión de tareas (TODOs), desarrollada como parte del taller práctico de **AWS SAM (Serverless Application Model)**.
 
